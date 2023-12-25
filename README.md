@@ -10,4 +10,4 @@ Infinite terrain generation is an important use case for computer graphics, game
 - [Code (coming soon!)](#)
 - [Paper (coming soon!)](#)
 - [Supplementary (coming soon!)](#)
-- [Video (coming soon!)](#)
+- Video: [https://youtu.be/Wiy06fXsY9Y](https://youtu.be/Wiy06fXsY9Y)
